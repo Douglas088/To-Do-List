@@ -1,7 +1,7 @@
 Projeto simples de lista de tarefas criado com html, css e javascript.
 
 # Funcionalidades.
- * Adicionar tarefas utilizando a tecla "Entrer".
+ * Adicionar tarefas utilizando a tecla "Enter".
  * Remover tarefas individualmente.
 
 # Objetivo do Projeto.
